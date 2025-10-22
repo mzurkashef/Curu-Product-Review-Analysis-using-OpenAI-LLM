@@ -1,0 +1,12 @@
+selenium
+pandas
+plotly
+streamlit
+python-dotenv
+langchain
+langchain-community
+openai
+vaderSentiment
+tqdm
+googletrans==4.0.0-rc1   # only if you use translation in the pipeline
+pymongo                  # optional (only if you want DB)
