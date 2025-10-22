@@ -53,6 +53,7 @@ Built using **Streamlit**, **VADER sentiment analysis**, and **OpenAI GPT models
 ---
 
 ## Project Structure  
+```bash
 CURU-Skincare-Analytics
 ├── amazon_search_results_1.json
 ├── myer_skin_care_reviews_vader.json
@@ -66,32 +67,37 @@ CURU-Skincare-Analytics
 ├── requirements.txt
 ├── .env
 └── README.md
-
+```
 
 ---
 
 ## Setup Instructions  
 
 ### 1. Clone the Repository  
+```bash
 git clone https://github.com/<your-username>/curu-skincare-analytics.git
 cd curu-skincare-analytics
-
+```
 ### 2. Create and Activate a Virtual Environment
+```bash
 python -m venv venv
 venv\Scripts\activate       # Windows
 source venv/bin/activate    # macOS / Linux
-
+```
 ### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-Add Your OpenAI API Key
-
+## Add Your OpenAI API Key
 ### 4. Create a .env file in the root directory:
+```bash
 OPENAI_API_KEY=your_openai_api_key_here
-
+```
 ### 5. Run the Streamlit App
+```bash
 streamlit run dashboard_cw.py
-
+```
 | Section                           | Description                                                 |
 | --------------------------------- | ----------------------------------------------------------- |
 | 🌍 **Website Selector**           | Choose data source (Amazon, Myer, Mecca, Chemist Warehouse) |
