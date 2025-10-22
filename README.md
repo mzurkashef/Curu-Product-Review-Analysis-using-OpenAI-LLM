@@ -117,13 +117,13 @@ May leave oily finish for combination skin types
 
 Hydration, Vitamin C, Non-greasy, Lightweight, SPF protection
 
-### 🧪 Testing
+### Testing
 
 Verify JSON files for correct structure (products, reviews, vader_sentiment)
 Ensure VADER pre-processing is completed before dashboard load
 Use streamlit run for live testing with sample datasets
 
-### 🧱 Future Enhancements
+### Future Enhancements
 
 Add user-uploaded review data for custom sentiment analysis
 Include brand-wise comparison and trend visualization
