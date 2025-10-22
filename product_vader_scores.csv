@@ -1,0 +1,40 @@
+product,avg_neg,avg_neu,avg_pos,avg_compound,review_count,positive_reviews,negative_reviews,neutral_reviews,overall_sentiment
+Elizabeth Arden Ceramide Purifying Cream Cleanser 125 ml,0.0,0.857,0.143,0.4239,2,1,0,1,Positive
+"Organic Shikakai Powder Natural Hair Cleanser and Conditioner, Non-GMO, Herbal Formula for Strong, Shiny Hair, 100g",0.0,0.716,0.284,0.8119,2,2,0,0,Positive
+"Cetaphil Daily Exfoliating Cleanser 178ml, Gently removes dirt and impurities, Buffs Away Dry Dull Skin, For All Skin Types, Non-Irritating, Dermatologically Tested",0.0632,0.593,0.3438,0.3041,91,64,17,10,Positive
+CeraVe Hydrating Cleanser Face Wash For Normal to Dry Skin | Hyaluronic Acid + 3 Essential Ceramides | Cleanses and Hydrates without Disrupting Natural Skin Barrier of the Face and Body | 473ml,0.0235,0.6716,0.3048,0.5636,100,89,2,9,Positive
+"CeraVe Foaming Cleanser Gel Face Wash For Normal to Oily Skin, Removes Oil without Disrupting the Protective Skin Barrier, For Face + Body, Niacinamide + Ceramides, Fragrance Free, Oil Control, 236ml",0.0275,0.6601,0.3124,0.5749,100,88,4,8,Positive
+Beauty of Joseon Green Plum Refreshing Cleanser,0.028,0.6476,0.3143,0.5797,99,83,7,9,Positive
+"NATUREONE BHA Acne Foam Cleansing, Acne Face Wash, Salicylic Acid for Acne Prone Skin, Exfoliator, Sebum, Blackhead Remover and Dead Cells, Foaming Pore Cleanser, Korean Skincare, 100ml, 3.38 fl.oz.",0.0268,0.6927,0.2806,0.7999,24,23,0,1,Positive
+"COSRX Low pH Good Morning Gel Cleanser 150ml, Daily Mild Face Cleanser for Sensitive Skin with BHA & Tea Tree Oil, PH Balancing, No Parabens, No Sulfates, Korean Skincare",0.0479,0.6716,0.2603,0.4887,99,77,11,11,Positive
+"ANUA Heartleaf Quercetinol Pore Deep Cleansing Foam, Facial Cleanser, for Double Cleansing, BHA, Hyaluronic Acid, Glycerin, Face Wash, Blackhead Remover, Korean Skincare, 150ml/5.07 fl.oz.",0.0296,0.6538,0.2965,0.5294,100,80,12,8,Positive
+"Cetaphil Gentle Skin Cleanser 1000ml, Face & Body, Suitable for All Skin Types, pH balanced, Soap and Fragrance Free, Contains Niacinamide, Dermatologically Tested.",0.0391,0.6357,0.3253,0.4401,100,77,12,11,Positive
+Round Lab 1025 Dokdo Cleanser 150ml,0.0378,0.7079,0.2443,0.5903,100,83,7,10,Positive
+"COSRX Salicylic Acid Daily Gentle Cleanser, 150ml, Pack of 1",0.0414,0.6861,0.2625,0.4826,99,83,11,5,Positive
+"La Roche Posay Anti-Acne Cleanser, Purifying Foaming Gel, Cleanser For Oily Skin, Soap-Free and Paraben-Free, Effaclar, 200ml",0.0296,0.6399,0.3305,0.5141,100,83,9,8,Positive
+"Paula's Choice CLEAR Pore Normalizing Cleanser, Salicylic Acid Face Wash for Blemishes, Blackheads, Large Pores & Redness, 177 mL",0.0492,0.7418,0.2091,0.4305,99,73,16,10,Positive
+"CeraVe Blemish Control Cleanser Gel Face Wash For Blackheads, Blocked Pores & Acne-prone Skin, 2% Salicylic Acid + Niacinamide + Purifying Clay + Ceramides, Lightweight + Oil-Absorbing, 236ml",0.0294,0.6583,0.298,0.6106,70,60,4,6,Positive
+"Sukin Foaming Facial Cleanser, Signature, 125 ml",0.0427,0.6949,0.2623,0.5519,100,87,7,6,Positive
+"CeraVe SA Smoothing Cleanser Face Wash For Dry, Rough, Bumpy Skin, Salicylic Acid + Hyaluronic Acid + Ceramides, Exfoliates Face without Disrupting the Protective Skin Barrier, Fragrance Free, 236ml",0.0253,0.505,0.4697,0.4008,9,8,1,0,Positive
+"Thayers pH Balancing Daily Cleanser, Face Wash with Aloe Vera, Gentle and Hydrating Skin Care for Dry, Oily, or Acne Prone Skin, 8 FL Oz.",0.0462,0.6482,0.3056,0.6511,100,92,7,1,Positive
+THEFACESHOP Rice Water Bright Foam Cleanser 150ml,0.0239,0.6831,0.2729,0.5973,100,85,9,6,Positive
+"Minimalist Gentle Oat Face Wash | 6% Oat Extract With Hyaluronic Acid For Sensitive Skin | Hydrating, Sulphate Free, Non-Drying, Non-Irritant, Gentle Face Cleanser, 120 ml 4 Fl Oz (Pack of 1)",0.0556,0.6788,0.2656,0.4576,100,77,12,11,Positive
+"Minimalist 2% Salicylic Acid Face Wash For Oily & Acne Prone Skin | Sulphate free | Anti Acne Face Wash With LHA & Zinc For Men & Women, 100 ml 3.4Oz (Pack of 1)",0.0315,0.6285,0.3401,0.458,99,76,9,14,Positive
+"Torriden DIVE IN Cleansing Foam Face Wash 150ml (5.07 fl.oz.) | Hydrating Daily Facial Cleanser for All and Sensitive Skin | Hyaluronic Acid, Panthenol, Allantoin",0.0392,0.6968,0.2516,0.589,80,70,3,7,Positive
+"Paulas Choice SKIN PERFECTING 2% BHA Liquid Salicylic Acid Exfoliant, Daily Facial Exfoliator for Blackheads, Enlarged Pores, Wrinkles & Fine Lines, Fragrance-Free & Paraben-Free, Full Size - 118 ml",0.0463,0.7078,0.2459,0.4449,100,75,14,11,Positive
+"Rockstar STONE CARE SPRAY 750ml- Maintain All Stone Surfaces inc Kitchen Benchtops, Bathroom Vanities & Marble Tables. Added Sealant Protection, PH Neutral & Antibacterial- Cuts though grease smears",0.028,0.6405,0.3315,0.8381,2,2,0,0,Positive
+"La Roche-Posay Mela B3 Gel Cleanser | Formulated With Melasyl + Niacinamide + PHA | Ant-ageing Face Wash For Discoloration, Dark Spots & Post Acne Marks | Dark Spot Corrector | Oil Free & Soap Free | 200ml",0.0224,0.6042,0.3734,0.5975,100,90,2,8,Positive
+"CETAPHIL Gentle Skin Cleanser 125ml, Hypoallergenic Face Wash for all skin types, With Hydrating Glycerin & Panthenol, Suitable for Sensitive Skin, Dermatologist Tested",0.0469,0.6508,0.3023,0.2753,10,6,3,1,Positive
+"CeraVe Hydrating Cream To Foam Cleanser Face Wash For Normal to Dry Skin, Hydrates + Removes Makeup without Disrupting the Protective Skin Barrier, Hyaluronic Acid + Amino Acids + Ceramides, 236ml",0.0282,0.669,0.3028,0.5341,99,83,9,7,Positive
+numbuzin No.3 Cleansing Foam | Rice Enzyme Skin Softening Cleansing Foam | 170ml,0.0,0.6763,0.3237,0.4968,3,2,0,1,Positive
+"CeraVe Hydrating Foaming Oil Cleanser Face Wash For Normal to Very Dry Skin, Suitable For Baby & Atopic-prone Skin, For Face & Body, Squalane + Triglyceride + Ceramides, Fragrance Free, 236ml",0.0251,0.6765,0.2784,0.5762,100,87,5,8,Positive
+"La Roche-Posay Cleanser | Toleriane Caring Wash Cleanser, 200ml",0.0603,0.6808,0.2589,0.4336,41,32,5,4,Positive
+SKIN1004 Madagascar Centella Light Cleansing Oil 200ml,0.0376,0.6683,0.2941,0.5879,100,86,9,5,Positive
+"SOME BY MI AHA BHA PHA 30 Days Miracle Acne Clear Body Cleanser, 400 g (Pack of 1)",0.0498,0.737,0.2131,0.4643,99,77,17,5,Positive
+Avene Eau Thermale Avène Tolerance Extremely Gentle Cleanser 200ml - Cleanser for Hypersensitive Skin,0.0331,0.6708,0.2961,0.5389,99,85,8,6,Positive
+"Cetaphil Gentle Cleanser 236 ml, For All Skin Types, Dermatologist Tested for Sensitive Skin, Fragrance Free, Oil Free, Paraben Free, Hypoallergenic, Formulated with Niacinamide",0.0597,0.7082,0.2318,0.3381,4,3,1,0,Positive
+"Olay Total Effects Foaming Cleanser, 100g",0.0318,0.6708,0.2973,0.4665,12,10,1,1,Positive
+Garnier Skin Active Vitamin C* Brightening Foam Wash 100ml,0.0267,0.6192,0.3541,0.2986,17,12,3,2,Positive
+Neutrogena Oil Free Acne Wash Pink Grapefruit Face Cleanser 175ml|For acne-prone skin|With Salicylic Acid|Eliminates oil & dirt|Clears breakouts & blackheads|Doesn’t over-dry the skin|Prevents pimples,0.0487,0.6402,0.2981,0.4263,77,59,11,7,Positive
+"Eau Thermale Avene Cleanance Cleansing Gel 400ml - Cleanser for Oily skin, Face and Body, Sebum-Regulating, Soap Free, Paraben Free, Biogradable Formula",0.0237,0.6189,0.3574,0.5352,98,85,6,7,Positive
+Anua Hearleaf Pore Control Cleansing Oil 200 ml,0.0659,0.7078,0.2263,0.4183,99,72,22,5,Positive

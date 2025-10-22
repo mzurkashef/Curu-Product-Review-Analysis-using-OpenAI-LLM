@@ -1,0 +1,48 @@
+product,avg_compound,avg_pos,avg_neg,avg_neu,positive_reviews,negative_reviews,neutral_reviews,overall_sentiment
+Amorepacific Botanical Soothing Toner,0.8584777777777778,0.24422222222222223,0.012444444444444444,0.7434444444444445,9,0,0,Positive
+By Terry Baume De Rose Beauty Toner,0.71874,0.2504,0.02465,0.72495,18,2,0,Positive
+Charlotte Tilbury Charlotte's Magic Cream™,0.6864549999999999,0.18525,0.015300000000000003,0.79945,16,0,4,Positive
+Charlotte Tilbury Glow Toner,0.473055,0.2487,0.04235,0.70895,15,3,2,Positive
+Clinique Take the Day Off Cleansing Balm,0.62196,0.19665,0.0435,0.7599,18,1,1,Positive
+Dermalogica Special Cleansing Gel,0.753415,0.26080000000000003,0.02035,0.7188,18,1,1,Positive
+Dr Dennis Gross Alpha Beta® AHA/BHA Daily Cleansing Gel,0.639275,0.1886,0.0351,0.7763500000000001,17,1,2,Positive
+Dr Dennis Gross Bring the Clinic Home Alpha Beta® Peel Kit -  Extra Strength,0.9833,0.246,0.023,0.731,1,0,0,Positive
+Dr Dennis Gross DermInfusions 3D Visible Fill + Repair Serum,0.55,0.14550000000000002,0.03035,0.8240500000000001,17,3,0,Positive
+Dr Dennis Gross DermInfusions Blur + Repair Cream,0.598785,0.20729999999999998,0.041100000000000005,0.7516,17,2,1,Positive
+Dr Jart Ceramidin Skin Barrier Moisturising Cream,0.71523,0.15295,0.0327,0.8143499999999999,19,0,1,Positive
+Drunk Elephant Protini™ Polypeptide Cream,0.6236349999999999,0.20925000000000002,0.047099999999999996,0.7436,18,2,0,Positive
+Estee Lauder Advanced Night Repair Synchronized Multi-Recovery Complex,0.665485,0.20905,0.03215,0.75865,18,2,0,Positive
+Fig1 Hydrating & Balancing Toner,0.627355,0.1793,0.0189,0.8019000000000001,18,2,0,Positive
+Frank Body Resurfacing AHA Toner,0.15335000000000001,0.0665,0.0455,0.8875,1,1,0,Positive
+Glow Recipe Prickly Pear Peptide Mucin,0.795665,0.2163,0.013499999999999998,0.7702,19,1,0,Positive
+Glow Recipe Watermelon Glow Niacinamide Dew Drops™,0.75831,0.19490000000000002,0.01235,0.79265,20,0,0,Positive
+Go To Juicy Gel,0.705735,0.27435,0.023950000000000003,0.7016,18,2,0,Positive
+Go To Much Brighter Skin,0.720405,0.23279999999999998,0.0396,0.7276,19,1,0,Positive
+Go To Much Plumper Skin,0.65506,0.2487,0.032100000000000004,0.7191,17,2,1,Positive
+Go To Nifty Fifty,0.58395,0.2217,0.03475,0.7434999999999999,15,3,2,Positive
+Go To Properly Clean,0.803255,0.31225,0.034100000000000005,0.6537,38,2,0,Positive
+Go To Very Amazing Retinal,0.7134,0.24965,0.0374,0.7129000000000001,18,2,0,Positive
+Korres Greek Yoghurt Foaming Cream Cleanser | Pre + Probiotics,0.7997799999999999,0.24535,0.00745,0.74725,19,1,0,Positive
+Mario Badescu Aloe Vera Toner,0.762925,0.20205,0.017050000000000003,0.7808499999999999,20,0,0,Positive
+Mario Badescu Witch Hazel and Rosewater Toner,0.54262,0.24075000000000002,0.0313,0.7279500000000001,16,4,0,Positive
+Mecca Archive Edits The Story Of Sharing Vol.  I,0.99605,0.677,0.0,0.323,2,0,0,Positive
+Mecca Cosmetica In A Good Light Face Tint with SPF 30,0.789475,0.21925,0.034999999999999996,0.7455999999999999,20,0,0,Positive
+Mecca Cosmetica Lip De-Luscious Glide With SPF 15,0.794325,0.2298,0.0223,0.74795,19,0,1,Positive
+Mecca Cosmetica To Save Body SPF50+ Hydrating Sunscreen,0.571725,0.2406,0.04065,0.71875,16,3,1,Positive
+Mecca Cosmetica To Save Face SPF50+ Brightening Sun Serum,0.89866625,0.3015375,0.0229625,0.67545,80,0,0,Positive
+Mecca Cosmetica To Save Face SPF50+ Superscreen,0.371935,0.17204999999999998,0.0392,0.7887,26,8,6,Positive
+Naked Sundays Beautyscreen SPF 50 Foundation Tint,0.796025,0.29955,0.02395,0.67655,18,1,1,Positive
+Naked Sundays SPF50+ Hydrating Glow Mist,0.45326500000000003,0.19485,0.04145,0.7636499999999999,13,4,3,Positive
+Rose Inc Skin Resolution Clarifying Toner,0.4417055555555556,0.13633333333333333,0.05083333333333333,0.8128888888888889,13,5,0,Positive
+Sunday Riley C.E.O 15% Vitamin C Brightening Serum,0.690595,0.21135,0.028749999999999998,0.7599,18,2,0,Positive
+Sunday Riley Good Genes Lactic Acid Treatment,0.5329900000000001,0.17735,0.0501,0.7725,17,2,1,Positive
+Susanne Kaufmann Soothing Toner,0.7944,0.24116666666666667,0.0,0.7588333333333334,6,0,0,Positive
+Tatcha The Camellia Cleansing Oil,0.801765,0.22360000000000002,0.0038,0.7726,19,0,1,Positive
+Tatcha The Dewy Milk Moisturizer,0.8731545454545454,0.2427272727272727,0.005909090909090909,0.7514545454545455,22,0,0,Positive
+Tatcha The Dewy Skin Cream,0.64264,0.209,0.03435,0.75675,18,1,1,Positive
+Tatcha The Indigo Overnight Repair Cream,0.5423235294117648,0.15188235294117647,0.042882352941176476,0.8051764705882354,14,3,0,Positive
+Tatcha The Rice Wash,0.82966,0.23765,0.0248,0.73765,76,4,0,Positive
+Tatcha The Water Cream,0.79426,0.21805,0.020700000000000003,0.76115,19,0,1,Positive
+Tower 28 SOS Daily Barrier Recovery Cream,0.6708999999999999,0.2481,0.04215,0.7098,18,2,0,Positive
+Tower 28 SunnyDays SPF 30 Tinted Sunscreen Foundation,0.6140000000000001,0.1853,0.052000000000000005,0.7626999999999999,18,2,0,Positive
+Youth To The People Superfood Cleanser,0.6934,0.22985000000000003,0.034550000000000004,0.7356,34,4,2,Positive

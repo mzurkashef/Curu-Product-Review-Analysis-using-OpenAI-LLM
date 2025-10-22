@@ -1,0 +1,57 @@
+product,avg_compound,avg_pos,avg_neg,avg_neu,positive_reviews,negative_reviews,neutral_reviews,overall_sentiment
+Advanced Night Repair Cleansing Gelee 100ml,0.6985750000000001,0.3136,0.00435,0.68205,18,0,2,Positive
+Advanced Night Repair Synchronized Multi-Recovery Complex Serum,0.742995,0.36135,0.009049999999999999,0.62955,20,0,0,Positive
+Ageless Replenishing Hydrating Toner 200ml,0.68043,0.3458,0.010350000000000002,0.64385,19,0,1,Positive
+All About Clean Rinse Off Foaming Cleanser,0.639445,0.25955,0.01665,0.72375,19,0,1,Positive
+B and Tea Balancing Toner,0.614635,0.36619999999999997,0.01515,0.61865,18,2,0,Positive
+C E Ferulic Vitamin C Serum 30ml,0.655365,0.30185,0.0186,0.6796,18,1,1,Positive
+Calendula Toner,0.47035,0.218,0.061,0.721,1,0,1,Positive
+Ceramide Purifying Toner,0.63899,0.26880000000000004,0.011899999999999999,0.7192999999999999,19,0,1,Positive
+Clarifying Lotion 2 Cleanser,0.43734,0.2138,0.0091,0.7771,13,1,6,Positive
+Clinique Dramatically Different Moisturizing Lotion | Myer,0.51898,0.26265,0.026000000000000002,0.7114,16,2,2,Positive
+Double Serum,0.604565,0.23725000000000002,0.00195,0.7607999999999999,18,0,2,Positive
+Dramatically Different Moisturizing Gel,0.53835,0.2806,0.0353,0.6841,17,2,1,Positive
+Dramatically Different Moisturizing Lotion+ SPF 50,0.706055,0.2502,0.01255,0.73725,19,0,1,Positive
+Eight Hour SPF 15 Cream Lip Protectant Stick Sunscreen Lip Balm,0.63864,0.24685,0.01565,0.7375499999999999,18,0,2,Positive
+Equalizing Toner 200ml,0.6088714285714286,0.24614285714285716,0.030428571428571426,0.7234285714285714,7,0,0,Positive
+Futurist Aqua Brilliance Foundation with Intense Moisture Infusion SPF 20,0.791285,0.40335,0.01175,0.58485,19,1,0,Positive
+Genifique Ultimate Serum,0.5690299999999999,0.23135,0.0222,0.7464500000000001,18,2,0,Positive
+Glucoside Foaming Cleanser 150ml,0.77518,0.33755,0.014550000000000002,0.64785,19,0,1,Positive
+Hyaluronic Acid 2% + B5 Hydrating Serum with Ceramides,0.69637,0.37845,0.00895,0.6125999999999999,20,0,0,Positive
+Intense Care Gold 24K Snail Toner 140ml,0.66456,0.27373333333333333,0.014266666666666667,0.7118666666666668,14,1,0,Positive
+Invisible Mist Sunscreen SPF 50+,0.628475,0.31145,0.01075,0.6778000000000001,17,0,3,Positive
+Madagascar Centella Tone Brightening Boosting Toner 210ml,0.9017250000000001,0.30910000000000004,0.0193,0.67165,20,0,0,Positive
+Melting Moment Cleansing Balm With Wild Orange Leaf Extract,0.615485,0.30805000000000005,0.043899999999999995,0.6481,18,2,0,Positive
+Moisture Replenishing Day Cream,0.61097,0.2481,0.035050000000000005,0.71685,17,2,1,Positive
+Moisture Surge 100H Auto-Replenishing Hydrator,0.62904,0.2661,0.00225,0.7316,18,0,2,Positive
+Moisture Surge Active Glow Serum,0.709055,0.3531,0.0045,0.6424,19,0,1,Positive
+Moisture Surge Intense 72H Lipid-Replenishing Hydrator,0.464645,0.21795,0.03675,0.74535,17,1,2,Positive
+Moisture Surge Sheertint Hydrator SPF 25 Tinted Moisturiser,0.7354849999999999,0.3569,0.0058,0.6373,20,0,0,Positive
+Multi-Peptide + Copper Peptides 1% Serum 30 ml,0.66679,0.31070000000000003,0.016,0.67325,18,0,2,Positive
+Multi-Peptide + HA Serum,0.536335,0.25785,0.0107,0.7314499999999999,18,1,1,Positive
+Nanoe Moisture Infusing Advanced Hair Dryer EH-NA0J-N765,0.662405,0.191,0.017,0.7920499999999999,17,2,1,Positive
+Natural Moisturizing Factors + HA,0.57569,0.2363,0.01055,0.7532,17,1,2,Positive
+Nourishing Cleansing Oil,0.57367,0.27435,0.034050000000000004,0.69165,17,2,1,Positive
+Perfectly Clean Multi Action Foam Cleanser/Purifying Mask 150ml,0.72945,0.34809999999999997,0.0121,0.6397999999999999,20,0,0,Positive
+Prestige Light-In-White Le Protecteur UV Mineral BB Tinted Sunscreen,0.51213,0.2904,0.04235,0.66715,16,3,1,Positive
+Prevage Anti-Aging Daily 2.0 Serum 50ml,0.6886300000000001,0.32165,0.00535,0.673,20,0,0,Positive
+Prevage Anti-Aging Moisture Cream with Sunscreens Moisturiser,0.71443,0.3583,0.013550000000000001,0.62815,19,0,1,Positive
+Prevage City Smart With Sunscreens Hydrating Shield Serum,0.630295,0.26575000000000004,0.0514,0.6829,17,2,1,Positive
+Protective Facial Lotion SPF50 50ml,0.65991,0.376,0.0198,0.6043000000000001,19,1,0,Positive
+Pure Mineral Skin Perfecting SPF 15 BB Cream 50g,0.65807,0.30815000000000003,0.022600000000000002,0.66925,18,1,1,Positive
+Radiant Skin Foaming Cleanser,0.619585,0.32480000000000003,0.02905,0.64615,18,1,1,Positive
+Retinol + HPR Ceramide Capsules Rapid Skin Renewing Serum 90 Piece,0.64531,0.25665,0.011850000000000001,0.7314999999999999,19,0,1,Positive
+Retractable Side Awning Sun Shade Blinds Screen 2x3m in Cream,-0.7109,0.0,0.18,0.82,0,1,0,Negative
+Revitalizing Supreme+ Youth Power Creme Moisturizer,0.74144,0.28795000000000004,0.007299999999999999,0.70475,20,0,0,Positive
+Revitalizing Supreme+ Youth Power Creme Moisturizer Refill,0.678455,0.3478,0.01265,0.6395500000000001,20,0,0,Positive
+Rosewater And Chamomile Gentle Skin Toner 250ml,0.602975,0.3041,0.01565,0.6801999999999999,19,1,0,Positive
+Rosewater Hydration Moisture Balance SPF 50+ Day Cream 90ml,0.67508,0.30735,0.02595,0.6668000000000001,18,1,1,Positive
+Rénergie C.R.x. Triple Serum Retinol,0.416475,0.19165000000000001,0.027000000000000003,0.78145,15,2,3,Positive
+Saccharomyces Ferment 30% Milky Toner 100ml,0.6298199999999999,0.2913,0.0203,0.68845,17,0,3,Positive
+Smart Clinical Repair Wrinkle Correcting Serum,0.52764,0.302,0.0094,0.6886,18,1,1,Positive
+Squalane Cleanser,0.60234,0.2716,0.0209,0.7074,18,0,2,Positive
+Sun-Kissed Glow Gradual Tan Lotion,0.62926,0.2956,0.04715,0.65725,19,1,0,Positive
+Super Citrus Cleanser 200ml,0.8292149999999999,0.35514999999999997,0.028600000000000004,0.6162,20,0,0,Positive
+Super Fruit Toner,0.5784499999999999,0.31694999999999995,0.02175,0.6613,17,2,1,Positive
+The Essentials Marshmallow Toner 120ml,0.5291090909090909,0.21636363636363634,0.019363636363636364,0.7642727272727273,9,0,2,Positive
+UV Defence SPF 50ml,0.695005,0.30315,0.02135,0.6755,18,0,2,Positive
